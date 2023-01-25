@@ -6,7 +6,7 @@ echo (c) Microsoft Corporation. All rights reserved.
 echo.
 echo Warning: CTRL-C is a bit broken, but still somewhat works. Respond N to the prompt as much as possible.
 echo Pressing CTRL-C again will skip the warning, but sometimes will close CMD.
-title Command Prompt Batch Edition ^| Made by Kaede^! ^| ^<3
+title Command Prompt ^| Batch Edition ^| Made by Kaede^! ^| ^<3
 echo.
 :a
 set /p v=%CD%^> 
