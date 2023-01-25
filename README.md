@@ -10,4 +10,4 @@ Although it *should* work, I do **NOT** recommend running any sensitive actions 
 Simply download and run the .cmd file, you can rename it to .bat if you wish for whatever reason.
 
 # Issues
-CTRL-C cannot be hooked/blocked, so CTRL-C will cause a pause, pressing it twice will skip this warning, but may close the prompt at times, recommended solution is responding n.
+CTRL-C cannot be hooked/blocked, so CTRL-C will cause a pause, pressing it twice will skip this warning, but may close the prompt at times, recommended solution is responding "n".
