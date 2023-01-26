@@ -14,6 +14,7 @@ Additional settings, not found in even the real command prompt, may be found at 
 Settings may also be changed during run by simply setting the correct variables, for example, the command:
 ```
 set autoCls=true
+rem (There will later be a command to automatically do this too (: )
 ```
 Will enable autoCls for the rest of the session, or until it is set back to false.
 
