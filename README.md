@@ -28,3 +28,8 @@ Simply download and run the .cmd file, you can rename it to .bat if you wish for
 
 # Issues
 CTRL-C cannot be hooked/blocked, so CTRL-C will cause a pause, pressing it twice will skip this warning, but may close the prompt at times, recommended solution is responding "n".
+
+# bCmd Minimal?
+Minimal is bCmd without settings options and such, still fully functioning as a cmd replacement. Nothing extra.
+Minimal_Smaller is Minimal but without the Microsoft watermark, fully functions.
+Minimal_Smallest is completely butchered. Variables do not work in commands (You cannot for example pass %cd% into a command), and the console is spammed as @echo off is not ran. Loads of issues!
