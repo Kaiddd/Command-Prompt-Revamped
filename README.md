@@ -32,6 +32,6 @@ CTRL-C cannot be hooked/blocked, so CTRL-C will cause a pause, pressing it twice
 # bCmd Minimal?
 Minimal is bCmd without settings options and such, still fully functioning as a cmd replacement. Nothing extra.
 
-Minimal_Smaller is Minimal but without the Microsoft watermark, fully functions.
+Minimal_Smaller is Minimal but without the Microsoft watermark, etc, fully functions.
 
 Minimal_Smallest is completely butchered. Variables do not work in commands (You cannot for example pass %cd% into a command), and the console is spammed as @echo off is not ran. Loads of issues!
