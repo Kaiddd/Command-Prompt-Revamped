@@ -16,6 +16,7 @@ Current Additional Settings:
 1. Auto CLS : Automatically clears the console after every command for you.
 2. Clean Start : Skips the Microsoft Windows [Version.........] etc at startup.
 3. Skip Custom Warning : Removes the warning about the CTRL-C bug, and the notifier of the settings existence that is echo'd at startup.
+4. Color : Allows you to change cmd's start color
 
 More to come... (Probably)
 
