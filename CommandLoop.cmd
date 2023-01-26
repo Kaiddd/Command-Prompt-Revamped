@@ -14,6 +14,7 @@ set skipCustomWarning=false
 
 REM End Settings
 
+title Command Prompt ^| Batch Edition ^| Made by Kaede^! ^| ^<3
 if %cleanStart% == true (goto a)
 for /f "tokens=4-7 delims=[.] " %%i in ('ver') do (if %%i==Version (set w=%%j.%%k.%%l.%%m) else (set w=%%i.%%j.%%k.%%l))
 echo Microsoft Windows [Version %w%]
@@ -25,7 +26,6 @@ echo Pressing CTRL-C again will skip the warning, but sometimes will close CMD.
 echo.
 echo Additional settings can be edited at the top of the %~x0 file.
 :skipCustomWarning
-title Command Prompt ^| Batch Edition ^| Made by Kaede^! ^| ^<3
 echo.
 :a
 set /p v=%CD%^> 
