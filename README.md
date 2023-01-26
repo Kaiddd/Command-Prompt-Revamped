@@ -1,7 +1,7 @@
 # Command-Prompt-In-Batch
-For use on systems that disable command prompt via reg/gp edit
+For use on systems that disable command prompt via reg/gp edit, with the goal of being better than the original.
 
-Functions nearly the same as simply running cmd.exe
+By default functions nearly the same as simply running cmd.exe
 
 # Additional Settings!
 Additional settings, not found in even the real command prompt, may be found at the top of the source. Feel free to change them to your liking!
