@@ -4,12 +4,19 @@ setlocal EnableDelayedExpansion
 REM Settings
 
 rem Automatically clears the console after every command! Great for script development.
+rem Defaults to false
 set autoCls=false
 
 rem Skips the Microsoft watermark, etc.
+rem Defaults to false
 set cleanStart=false
 
+rem Acceptable options can be found by running the color command in cmd: Ex. 'color ok' will error and show you a list of options
+rem Defaults to 07
+color 07
+
 rem Skips the warning about ctrl-c, as well as the information that you can edit these settings! (Ignored if cleanStart == true)
+rem Defaults to false
 set skipCustomWarning=false
 
 REM End Settings
