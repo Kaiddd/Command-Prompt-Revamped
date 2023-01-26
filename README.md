@@ -34,4 +34,4 @@ Minimal is bCmd without settings options and such, still fully functioning as a 
 
 Minimal_Smaller is Minimal but without the Microsoft watermark, etc, fully functions.
 
-Minimal_Smallest is completely butchered. Variables do not work in commands (You cannot for example pass %cd% into a command), and the console is spammed as @echo off is not ran. Loads of issues!
+Minimal_Smallest is completely butchered. Variables do not work in commands (You cannot for example pass %cd% into a command), and the console is spammed as @echo off is not ran. Loads of issues! But fits in just 26 bytes.
