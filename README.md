@@ -3,6 +3,11 @@ For use on systems that disable command prompt via reg/gp edit, with the goal of
 
 By default functions nearly the same as simply running cmd.exe
 
+# Why use this over cmd.exe directly?
+1. Use it anywhere! | cmd.exe can be disabled via a regkey, organizations tend to do this a LOT, this will bypass that. (The command prompt has been disabled by your administrator.)
+2. Configuration! | bCmd has settings that can be configured at the top of the .cmd file!
+3. Features! | (TODO) bCmd will have features built into it that regular cmd has, some ideas are custom commands, as well as built in NodeJS, Python, and Chocolatey! (Not available yet)
+
 # Additional Settings!
 Additional settings, not found in even the real command prompt, may be found at the top of the source. Feel free to change them to your liking!
 
