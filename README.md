@@ -34,6 +34,7 @@ Simply download and run the .cmd file, you can rename it to .bat if you wish for
 
 # Issues
 CTRL-C cannot be hooked/blocked, so CTRL-C will cause a pause, pressing it twice will skip this warning, but may close the prompt at times, recommended solution is responding "n".
+/? for usage only shows the usage of the call command.
 
 # bCmd Minimal?
 Minimal is bCmd without settings options and such, still fully functioning as a cmd replacement. Nothing extra.
