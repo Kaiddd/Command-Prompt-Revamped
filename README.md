@@ -1,4 +1,4 @@
-# Command-Prompt-In-Batch
+# Command-Prompt-Revamped
 For use on systems that disable command prompt via reg/gp edit, with the goal of being better than the original.
 
 By default functions nearly the same as simply running cmd.exe
