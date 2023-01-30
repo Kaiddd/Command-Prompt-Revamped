@@ -6,7 +6,7 @@ By default functions nearly the same as simply running cmd.exe
 # Why use this over cmd.exe directly?
 1. Use it anywhere! | cmd.exe can be disabled via a regkey, organizations tend to do this a LOT, this will bypass that. (The command prompt has been disabled by your administrator.)
 2. Configuration! | bCmd has settings that can be configured at the top of the .cmd file!
-3. Features! | bCmd has custom settings such as auto clearing the console, built in Chocolatey, git, languages and more installation! (Currently just git, chocolatety, and curl)
+3. Features! | bCmd has custom settings such as auto clearing the console, built in Chocolatey, git, and programming languages! (Currently just git, chocolatety, and curl)
 
 # Additional Settings!
 Additional settings, not found in even the real command prompt, may be found at the top of the source. Feel free to change them to your liking!
