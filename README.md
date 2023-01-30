@@ -6,7 +6,7 @@ By default functions nearly the same as simply running cmd.exe
 # Why use this over cmd.exe directly?
 1. Use it anywhere! | cmd.exe can be disabled via a regkey, organizations tend to do this a LOT, this will bypass that. (The command prompt has been disabled by your administrator.)
 2. Configuration! | bCmd has settings that can be configured at the top of the .cmd file!
-3. Features! | (TODO) bCmd will have features built into it that regular cmd has, some ideas are custom commands, as well as built in NodeJS, Python, and Chocolatey! (Not available yet)
+3. Features! | bCmd has custom settings such as auto clearing the console, built in Chocolatey, git, languages and more installation! (Currently just git, chocolatety, and curl)
 
 # Additional Settings!
 Additional settings, not found in even the real command prompt, may be found at the top of the source. Feel free to change them to your liking!
@@ -23,6 +23,8 @@ Current Additional Settings:
 2. Clean Start : Skips the Microsoft Windows [Version.........] etc at startup.
 3. Skip Custom Warning : Removes the warning about the CTRL-C bug, and the notifier of the settings existence that is echo'd at startup.
 4. Color : Allows you to change cmd's start color
+5. Install Chocolatety : Installs Chocolatety, a Windows package manager! Has options for an admin and a nonadmin installation.
+6. Install Git : Installs git!
 
 More to come... (Probably)
 
